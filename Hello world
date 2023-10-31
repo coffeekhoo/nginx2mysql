@@ -1,0 +1,6 @@
+#include <iostream>  // 引入头文件
+
+int main() {
+    std::cout << "Hello, World!" << std::endl;  // 使用std命名空间中的cout对象，输出字符串到控制台
+    return 0;  // 主函数返回0表示程序成功执行结束
+}
